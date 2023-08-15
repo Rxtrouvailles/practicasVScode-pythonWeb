@@ -1,15 +1,10 @@
-""" print("hola")
-print("holax2")
 
-"""
-#comentario
-
-# un comentario
 #
+151515616 
 #
 
+print(84)
 
-5
 sd=85
 
 print(878)
@@ -35,3 +30,4 @@ print("aqui termino mi super algoritmo")
 
 
 """no se que poner aqui"""
+
