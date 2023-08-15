@@ -8,6 +8,7 @@
 print(84)
 
 sd=85
+sdas4=15
 
 print(878)
 #otro comentario
@@ -23,14 +24,13 @@ print(52)
 
 print(89*8)
 
-hola=5
+hola=585
 
 print(ordename)
 '''soy un comentario de bloque
-*****************************
+****************************
 '''
 print("aqui termino mi super algoritmo")
 
 
-"""no se que poner aqui"""
 
