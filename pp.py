@@ -14,6 +14,7 @@ print(878)
 ordename=[1,2,3,1,2,3,2.3]
 print(ordename)
 print("hola jc")
+print(85*963)
 (ordename.sort())
 
 print(89*8)
