@@ -12,6 +12,7 @@ print(878)
 """ un comentario """
 '''un comentardio'''
 ordename=[1,2,3,1,2,3,2.3]
+listica=84
 print(ordename)
 print("hola jc")
 print(85*963)
