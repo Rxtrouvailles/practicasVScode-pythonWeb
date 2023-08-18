@@ -6,7 +6,7 @@
 print(54545)
 
 
-xs
+
 
 print(84)
 
@@ -14,7 +14,7 @@ sd=85
 #sdfsd 
 
 sdas4=15
-juan case
+
 print(878)
 #otro comentario
 """ un comentario """
@@ -31,6 +31,8 @@ print(89*8)
 
 hola=585
 
+print( )
+
 '''soy un comentario de bloque
 ****************************
 '''
@@ -38,4 +40,9 @@ print("aqui termino mi super algoritmo")
 
 
 
-d 
+
+
+
+
+
+
